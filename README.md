@@ -1,4 +1,5 @@
-本文是测试git的使用方法，第一个测试文件都是别人的文件，所有内容转载自： http://blog.csdn.net/u014365862/article/details/78422372如有侵权请告知。
+本文是测试git的使用方法，第一个测试文件都是别人的文件，所有内容转载自： http://blog.csdn.net/u014365862/article/details/78422372
+如有侵权请告知。
 
 ## 自己搭建的一个框架，包含模型有：vgg(vgg16,vgg19), resnet(resnet_v2_50,resnet_v2_101,resnet_v2_152), inception_v4, inception_resnet_v2等。
 ## 代码有点小乱，欢迎帮忙整理。
