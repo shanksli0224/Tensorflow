@@ -1,3 +1,4 @@
+本文是测试git的使用方法，第一个测试文件都是别人的文件，所有内容转载自： http://blog.csdn.net/u014365862/article/details/78422372如有侵权请告知。
 
 ## 自己搭建的一个框架，包含模型有：vgg(vgg16,vgg19), resnet(resnet_v2_50,resnet_v2_101,resnet_v2_152), inception_v4, inception_resnet_v2等。
 ## 代码有点小乱，欢迎帮忙整理。
@@ -17,14 +18,6 @@
 另外如果想使用tensorboard，请使用train_net下面的train_tensorboard.py。将在工程目录下生成 xxx_log 的文件。
 然后使用：tensorboard --logdir arch_inceion_v4_log查看。
 后续有时间会把其它的功能加上，并且每个代码文件都会进行封装，用类的形式呈现。
-
-
-对dl感兴趣，还可以关注我的博客，这是我的博客目录：（地址： http://blog.csdn.net/u014365862/article/details/78422372 ）
-本文为博主原创文章，未经博主允许不得转载。有问题可以加微信：lp9628(注明CSDN)。
-
-公众号MachineLN，邀请您扫码关注： 
-
-![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 **机器学习进阶系列：(下面内容在微信公众号同步)**
 
